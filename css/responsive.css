@@ -1,0 +1,49 @@
+@media(max-width:575.98px) {
+    .header_icon a {
+        margin-left: 11px;
+    }
+
+    img,
+    svg {
+        margin-top: -16px;
+    }
+
+    .menu_part{
+        padding: 18px;
+        text-align: center;
+      
+      
+    }
+
+    .menu_part a {
+        padding: 6px 36px 10px;
+        /* border: 2px solid red; */
+        margin-top: 12px;
+
+    }
+
+    .bennar_text_all {
+     text-align: center;
+    }
+
+
+    .bennar_text_all h2 {
+        margin-left: 21px;
+    }
+    #about_part {
+        padding: 12px 0;
+    }
+
+    .about_man img {
+        margin-top: 14px;
+    }
+
+    .about_text p {
+       
+        margin-top: -78px;
+        text-align: center;
+    }
+
+
+
+}
